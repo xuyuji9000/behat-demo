@@ -1,0 +1,12 @@
+{
+    "name": "yogiman/behat-demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karl Xu",
+            "email": "karl.yogi.xu@gmail.com"
+        }
+    ],
+    "require": {}
+}
