@@ -8,5 +8,8 @@
             "email": "karl.yogi.xu@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "behat/behat": "^3.4"
+    }
 }
